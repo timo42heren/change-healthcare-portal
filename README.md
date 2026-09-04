@@ -33,13 +33,12 @@ Whether users need to track medical bills, insurance-related payments, prescript
 ## Author
 
 ### Name
-Your A/C Name
-
+timo
 ### Email
-youraccount@example.com
+timo42heren@outlook.com
 
 ### Website
-https://change-healthcare-portal.com
+[change healthcare portal](https://www.changehealthcareprovider.com)
 
 ### Author Bio
 
